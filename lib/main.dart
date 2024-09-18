@@ -7,7 +7,7 @@ void main() => runApp(QRScannerApp());
 class QRScannerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return MaterialApp( 
       title: 'QR Code Scanner',
       theme: ThemeData(
         primarySwatch: Colors.blue,
