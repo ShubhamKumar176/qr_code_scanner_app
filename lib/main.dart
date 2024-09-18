@@ -61,7 +61,7 @@ class _QRScannerHomePageState extends State<QRScannerHomePage> {
             ),
           ),
         ],
-      ),
+      ), 
     );
   }
 
